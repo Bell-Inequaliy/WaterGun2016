@@ -1,0 +1,2 @@
+camera:drive:rosaria:rosserial/rosserial:rosserial/rosserial_arduino:rosserial/rosserial_client:rosserial/rosserial_embeddedlinux:rosserial/rosserial_mbed:rosserial/rosserial_msgs:rosserial/rosserial_python:rosserial/rosserial_server:rosserial/rosserial_tivac:rosserial/rosserial_windows:rosserial/rosserial_xbee:watergun
+-DCATKIN_DEVEL_PREFIX=/home/student/watergun_2016/devel -DCMAKE_INSTALL_PREFIX=/home/student/watergun_2016/install -G Unix Makefiles

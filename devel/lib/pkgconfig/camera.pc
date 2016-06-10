@@ -1,0 +1,8 @@
+prefix=/home/student/watergun_2016/devel
+
+Name: camera
+Description: Description of camera
+Version: 0.0.0
+Cflags: -I/home/student/watergun_2016/devel/include -I/home/student/watergun_2016/src/camera/include
+Libs: -L/home/student/watergun_2016/devel/lib -lcamera
+Requires: roscpp rospy std_msgs message_runtime

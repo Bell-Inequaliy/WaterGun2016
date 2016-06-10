@@ -1,0 +1,8 @@
+prefix=/home/student/watergun_2016/devel
+
+Name: rosserial_server
+Description: Description of rosserial_server
+Version: 0.7.1
+Cflags: -I/home/student/watergun_2016/src/rosserial/rosserial_server/include
+Libs: -L/home/student/watergun_2016/devel/lib 
+Requires: roscpp rosserial_msgs topic_tools

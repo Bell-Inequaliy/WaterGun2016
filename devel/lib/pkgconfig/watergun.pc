@@ -1,0 +1,8 @@
+prefix=/home/student/watergun_2016/devel
+
+Name: watergun
+Description: Description of watergun
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/student/watergun_2016/devel/lib 
+Requires: 
