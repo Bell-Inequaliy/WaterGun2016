@@ -65,4 +65,5 @@ camera/CMakeFiles/targeter.dir/src/targeter.cpp.o
  /opt/ros/indigo/include/sensor_msgs/CompressedImage.h
  /opt/ros/indigo/include/sensor_msgs/Image.h
  /opt/ros/indigo/include/sensor_msgs/image_encodings.h
+ /opt/ros/indigo/include/std_msgs/Bool.h
  /opt/ros/indigo/include/std_msgs/Header.h
